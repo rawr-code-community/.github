@@ -1,12 +1,14 @@
-## Hi there 👋
+### Hey there, this is xyflow ✨
 
+We build and maintain open source libraries for making node-based UIs.
 
+![Wire your ideas with xyflow](https://github.com/xyflow/.github/assets/2857535/13fcc049-16b0-457d-aa88-4c54a595ae58)
 
-**Here are some ideas to get you started:**
+- Check out [React Flow](https://reactflow.dev) (our most popular project with ⭐️18k)
+- Check out [Svelte Flow](https://svelteflow.dev)
+- Learn more about the [xyflow team](https://xyflow.com)
+- See what we've been up to lately on our [blog](https://xyflow.com/blog)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+If you need anything, have an idea, or just want to say hi, we're an email away at info@xyflow.com.
 
+✌🏻 Christopher, Hayleigh, John, Moritz, and Peter
